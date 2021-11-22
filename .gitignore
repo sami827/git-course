@@ -2,5 +2,3 @@ logs/
 *.log
 dev.log
 hey.log
-
-bins/
